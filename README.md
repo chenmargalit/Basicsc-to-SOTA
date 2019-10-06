@@ -11,10 +11,10 @@ Project incldues:
 * Gradual freezing/discriminative learning rates
 
 Examples:
-Mixup augmentation - ![](images/mixup.png)
+Mixup augmentation - ![](images/Mixup.png)
 
-FlipAugmentation - ![](images/flipAugmentation.png)
+FlipAugmentation - ![](images/FlipAugmentation.png)
 
-Hooking to activations - ![](images/activations.ong)
+Hooking to activations - ![](images/Activations.ong)
 
-Hooking to averages - ![](images/averages.png)
+Hooking to averages - ![](images/Averages.png)
