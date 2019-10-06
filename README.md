@@ -15,6 +15,6 @@ Mixup augmentation - ![](images/Mixup.png)
 
 FlipAugmentation - ![](images/FlipAugmentation.png)
 
-Hooking to activations - ![](images/Activations.ong)
+Hooking to activations - ![](images/Activations.png)
 
 Hooking to averages - ![](images/Averages.png)
