@@ -2,7 +2,6 @@ Computer Vision - Basics to STOA - everything needed to build a STOA architectur
 
 Project incldues:
 
-
 * Optimizing (speed wise) regular training loops with broadcasting * Callbacks Architecture
 * Deep dive into the model's stats (avgs, stds) using hooks
 * Batchorm, optimizers
@@ -10,3 +9,12 @@ Project incldues:
 * Xresnet model based on [Bag of tricks paper](http://openaccess.thecvf.com/ content_CVPR_2019/papers/ He_Bag_of_Tricks_for_Image_Classification_with_Convolutional_Neural_Networks _CVPR_2019_paper.pdf)
 * Using the self built model as a transfer learning model to another dataset
 * Gradual freezing/discriminative learning rates
+
+Examples:
+Mixup augmentation - ![](images/mixup.png)
+
+FlipAugmentation - ![](images/flipAugmentation.png)
+
+Hooking to activations - ![](images/activations.ong)
+
+Hooking to averages - ![](images/averages.png)
