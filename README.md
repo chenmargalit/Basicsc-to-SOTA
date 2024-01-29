@@ -1,4 +1,4 @@
-Computer Vision - Basics to STOA - everything needed to build a STOA architecture (Xresnet) from scratch on a computer vision task.
+Computer Vision - Basics to SOTA - everything needed to build a SOTA architecture (Xresnet) from scratch on a computer vision task.
 
 Project incldues:
 
